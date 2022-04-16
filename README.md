@@ -1,4 +1,4 @@
-# BesterSynapse - An open-source Synapse UI based on [BestSynapse](https://github.com/L1ghtingBolt/BestSynapse) (which was based on [BetterSynapse](https://github.com/rice-cracker-2234/BetterSynapse)
+# BesterSynapse - An open-source Synapse UI based on [BestSynapse](https://github.com/L1ghtingBolt/BestSynapse) (which was based on [BetterSynapse](https://github.com/rice-cracker-2234/BetterSynapse))
 
 ## Requirements
  - .NET Framework 4.8
