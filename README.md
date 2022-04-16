@@ -9,7 +9,7 @@
 Releases: [Here](https://github.com/L1ghtingBolt/BestSynapse/releases)
 
 ## VirusTotal
-VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/MDNkZDMxZGNiZmZjYmZkZmZhZmJhZWFkZmI2Y2UzMGQ6MTYzMTg1NzAzOQ==)
+VirusTotal: [Here](https://www.virustotal.com/gui/file/be33582c1120c755e1c74f7a0c42bfa4164ec47fa9c95f57bce47b56cd33c0d3?nocache=1)
 
 ### Features:
 - treeview
