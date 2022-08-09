@@ -27,5 +27,3 @@ VirusTotal: [Here](https://www.virustotal.com/gui/file/be33582c1120c755e1c74f7a0
 ![image](https://media.discordapp.net/attachments/949873678185803777/965008114669731921/unknown.png)
 ## Script Hub
 ![image](https://media.discordapp.net/attachments/949873678185803777/965008090162401330/unknown.png)
-
-***DISCORD***: discord.gg/msBjh2MpF3
